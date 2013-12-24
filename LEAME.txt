@@ -1,0 +1,36 @@
+
+
+MUESTRA DE PAGINAS DE PORTAL CAUTIVO PARA PFSENSE
+=================================================
+
+Estas paginas contienen una muestra de portal cautivo para su uso con
+pfSense 2.1.
+
+Se incluyen dos ejemplos: GUEST, para construir un portal cautivo que
+solo requiera la aceptación de condiciones de uso (sin acreditar usuario
+y contraseña) y CORP, para la construcción de un portal cautivo que
+requiera usuario y contraseña para continuar.
+
+En ambos casos se ha incluido un texto legal genérico que nuestro usuario
+debe aceptar antes de continuar en nuestra red. El texto debe ser adaptado
+antes de subirlo, concretamente debe sustituirse al menos la palabra
+TuEmpresa. (Esta mención aparece también en algunos ficheros PHP).
+
+Para instalarlo, es necesario subir al portal cautivo (pestaña File Manager)
+todos los archivos excepto captiveportal-login-page.php y
+captiveportal-login-error.php, ya que estos archivos se deben subir
+respectivamente, en las opciones Portal Page Contents y Authentication
+Error Contents de la configuración.
+
+La carpeta artwork contiene el fichero GIMP utilizado para generar un logotipo
+genérico (captiveportal-logo.png) con imágenes tomadas de Google Images.
+
+Enjoy!
+
+Nota:
+Algunos ficheros proceden de:
+- PfSense Forum ( http://forum.pfsense.org/index.php?topic=59523.0 )
+- Centreon monitoring software ( http://www.centreon.com )
+- JQuery Mobile ( http://jquerymobile.com/ )
+
+
