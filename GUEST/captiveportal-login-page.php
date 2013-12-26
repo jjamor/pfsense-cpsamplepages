@@ -28,7 +28,7 @@
 				<p>
 					<form name="login-form" class="login-form" method="post" action="$PORTAL_ACTION$" data-ajax="false">
 <fieldset>
-							<p style="text-align: center">Al pulsar el bot&oacute;n <em>Acceder</em>, usted afirma haber leído y aceptado las <a href="captiveportal-condiciones.html">condiciones de utilizaci&oacute;n</a></label> de la red de TuEmpresa
+							<p style="text-align: center">Al pulsar el bot&oacute;n <em>Acceder</em>, usted afirma haber le&iacute;do y aceptado las <a href="captiveportal-condiciones.html">condiciones de utilizaci&oacute;n</a></label> de la red de TuEmpresa
 							  </p>
 							<p>
 								<input name="redirurl" type="hidden" value="$PORTAL_REDIRURL$" />
@@ -66,9 +66,9 @@
 			<tr>
 				<td colspan="2">
 					<table id="logintab2">
-					       <tbody><tr><td style="grayLine"></td></tr>
+					       <tbody><tr><td style="grayLine" colspan="2"></td></tr>
 					       <tr>
-							<td align="right"><label for="useralias">Al pulsar el bot&oacute;n <em>Acceder</em>, usted afirma haber leído y<br/>aceptado las <a target="_blank" href="captiveportal-condiciones.html">condiciones de utilizaci&oacute;n</a> de la red de TuEmpresa</label></td>
+							<td align="center" colspan="2"><label for="useralias">Al pulsar el bot&oacute;n <em>Acceder</em>, usted afirma haber le&iacute;do y<br/>aceptado las <a target="_blank" href="captiveportal-condiciones.html">condiciones de utilizaci&oacute;n</a> de la red de TuEmpresa</label></td>
 						</tr>
 						<tr>
 							<td colspan="2" align="center">
