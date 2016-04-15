@@ -36,6 +36,7 @@
 							</p>
 							<p>
 								<input name="redirurl" type="hidden" value="$PORTAL_REDIRURL$" />
+								<input name="zone" type="hidden" value="$PORTAL_ZONE$" />
 							</p>
                                                         <p style="text-align: center">Al pulsar el bot&oacute;n <em>Acceder</em>, usted afirma haber le&iacute;do y aceptado las <a href="captiveportal-condiciones.html">condiciones de utilizaci&oacute;n</a></label> de la red de TuEmpresa
                                                           </p>

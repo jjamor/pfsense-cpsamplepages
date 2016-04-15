@@ -35,6 +35,7 @@ $PORTAL_MESSAGE$
 							  </p>
 							<p>
 								<input name="redirurl" type="hidden" value="$PORTAL_REDIRURL$" />
+								<input name="zone" type="hidden" value="$PORTAL_ZONE$" />
 							</p>
 							<p>
 								<input data-theme="a" type="submit" name="accept" value="Acceder" />
