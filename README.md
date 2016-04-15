@@ -1,11 +1,11 @@
 pfsense-cpsamplepages
 =====================
 
-Captive Portal page samples for PfSense 2.1
+Captive Portal page samples for PfSense 2.3
 ---------------------------------------------
 
 Following archives take part of a captive portal to be used with
-pfSense 2.1.
+pfSense 2.3.
 
 There are two samples: GUEST, to build a captive portal without
 user authentication but with ToS requirement, and CORP, to build
