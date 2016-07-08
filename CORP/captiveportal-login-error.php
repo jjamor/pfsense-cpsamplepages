@@ -36,6 +36,7 @@
 							</p>
 							<p>
 								<input name="redirurl" type="hidden" value="$PORTAL_REDIRURL$" />
+								<input name="zone" type="hidden" value="$PORTAL_ZONE$" />
 							</p>
 <p style="text-align: center">
 $PORTAL_MESSAGE$

@@ -85,6 +85,7 @@
 						<tr>
 							<td colspan="2" align="center">
 							  <input name="redirurl" type="hidden" value="$PORTAL_REDIRURL$" />
+							  <input name="zone" type="hidden" value="$PORTAL_ZONE$" />
 								<input name="accept" value="Acceder" type="Submit">
 							</td>
 						</tr>
